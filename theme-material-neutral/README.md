@@ -3,6 +3,6 @@
 ![screenshot](https://i.imgur.com/5fN1JKi.png)
 
 ### For more information
-* [Gitlab](http://code.visualstudio.com/docs/languages/markdown)
+* [Gitlab](https://gitlab.com/bernardodsanderson/material-neutral-theme)
 
 **Enjoy!**
