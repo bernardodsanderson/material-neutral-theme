@@ -1,0 +1,22 @@
+{
+    "name": "theme-material-neutral",
+    "displayName": "Material Neutral Theme",
+    "description": "A modified and updated Material Theme",
+    "version": "0.0.1",
+    "publisher": "bernardodsanderson",
+    "engines": {
+        "vscode": "^0.10.10"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Neutral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MaterialNeutral.tmTheme"
+            }
+        ]
+    }
+}
