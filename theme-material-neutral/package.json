@@ -2,7 +2,7 @@
     "name": "theme-material-neutral",
     "displayName": "Material Neutral Theme",
     "description": "A modified and updated Material Theme",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "publisher": "bernardodsanderson",
     "engines": {
         "vscode": "^0.10.10"
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
