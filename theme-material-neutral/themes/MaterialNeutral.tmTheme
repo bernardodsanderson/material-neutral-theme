@@ -18,7 +18,7 @@
 				<key>caret</key>
 				<string>#FFCC00</string>
 				<key>foreground</key>
-				<string>#789494</string>
+				<string>#92A9B2</string>
 				<key>invisibles</key>
 				<string>#536D7982</string>
 				<key>lineHighlight</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#536D798A</string>
+				<string>#37474E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CEE8A9</string>
+				<string>#C3E88D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FA9084</string>
+				<string>#F77669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FA9084</string>
+				<string>#F77669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FA9084</string>
+				<string>#F77669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A1DCF5</string>
+				<string>#82AAFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +116,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DAACF7</string>
+				<string>#BD8BDF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +127,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DAACF7</string>
+				<string>#FFCB6B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,7 +153,7 @@
 				<key>fontStyle</key>
 				<string> underline</string>
 				<key>foreground</key>
-				<string>#CEE8A9</string>
+				<string>#C3E88D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,7 +166,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A1DCF5</string>
+				<string>#82AAFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -216,7 +216,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DAACF7</string>
+				<string>#BD8BDF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -229,7 +229,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FA9084</string>
+				<string>#F77669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -290,7 +290,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.material</string>
+	<string>theme.dark.material_neutral</string>
 	<key>author</key>
 	<string>Bernardo Anderson</string>
 	<key>comment</key>
