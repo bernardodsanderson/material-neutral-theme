@@ -137,8 +137,6 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
 				<string>#FFCB6B</string>
 			</dict>
@@ -150,8 +148,6 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> underline</string>
 				<key>foreground</key>
 				<string>#C3E88D</string>
 			</dict>
