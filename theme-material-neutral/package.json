@@ -25,6 +25,11 @@
                 "label": "Material Neutral",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MaterialNeutral.json"
+            },
+            {
+                "label": "Material Neutral - Classic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MaterialNeutral.tmTheme"
             }
         ]
     }
