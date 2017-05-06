@@ -2,7 +2,7 @@
     "name": "theme-material-neutral",
     "displayName": "Material Neutral Theme",
     "description": "A modified and updated Material Theme",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "publisher": "bernardodsanderson",
     "engines": {
         "vscode": "^0.10.10"
