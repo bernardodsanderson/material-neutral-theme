@@ -1,7 +1,7 @@
 # Material Neutral Theme
 ### For Visual Studio Code
 
-![screenshot](http://i.imgur.com/MQRRWam.jpg)
+![screenshot](https://i.imgur.com/bcaD9jG.png)
 
 You can now choose between the new workspace full theme, or the classic dark theme.
 
