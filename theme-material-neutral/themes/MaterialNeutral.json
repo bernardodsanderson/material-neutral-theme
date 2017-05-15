@@ -272,6 +272,11 @@
     "titleBar.activeBackground": "#263238",
     "titleBar.inactiveBackground": "#263238",
 
+    "focusBorder": "#455c67",
+    "activityBarBadge.background": "#455c67",
+    "button.background": "#455c67",
+    "button.hoverBackground": "#263238",
+
     "terminal.ansiBlack": "#263238",
 		"terminal.ansiRed": "#FA6981",
 		"terminal.ansiGreen": "#C3E88D",
